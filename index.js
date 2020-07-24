@@ -1,4 +1,4 @@
-﻿﻿const Discord = require('discord.js');
+const Discord = require('discord.js');
 const client = new Discord.Client()
 const { Client, MessageAttachment } = require('discord.js');
 const { MessageEmbed } = require('discord.js')
@@ -687,4 +687,4 @@ console.log('Commande Nitro Gen Activé')
 
 })
 })
-client.login(process.env.TOKEN)
+client.login('NzEzNjA2NDQ5NjIzOTkwMjk3.XvNpLQ.vlzbkTNNyHN13J-y5kBW-J-oUkY')
