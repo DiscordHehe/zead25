@@ -687,4 +687,4 @@ console.log('Commande Nitro Gen Activé')
 
 })
 })
-client.login('NzEzNjA2NDQ5NjIzOTkwMjk3.XvNpLQ.vlzbkTNNyHN13J-y5kBW-J-oUkY')
+client.login('NzA5ODY3MTk4NjkyMzI3NDc1.XrsJWA.lJNWlWELTSl8lddHzBMvTOns5xo')
