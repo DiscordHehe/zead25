@@ -172,7 +172,6 @@ const staff = require('lowdb')
 process.setMaxListeners(0);
 require('events').EventEmitter.defaultMaxListeners = 0;
 
-var prefix = '/'
 
    ownersIDS = ['632942833388486656', '595363188074086402'],
     inviteChannel = '724313206646112357',
