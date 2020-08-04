@@ -473,7 +473,9 @@ if (args[0].toLowerCase() === prefix + 'ban'){
 
  client.on('message', message => {
     if(message.content.startsWith("/ping")) {     
-if(message.author.bot) return;
+
+        if(message.author.bot) return;
+
       var Ping = new MessageEmbed()
         .setDescription(`Voici mon ping : ${Math.round(client.ws.ping)}ms`)
         .setColor('RANDOM');  
